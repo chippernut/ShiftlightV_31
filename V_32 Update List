@@ -1,1 +1,4 @@
 If space allows, add knight rider "kitt" animation to be activated when 0 RPM detected. Menu option to turn on/off, set color, speed, etc. 
+Add "profiles" for settings (ie, normal driving, track, drifting, drag, etc)
+in Debug mode, clean all other serial.print data so it's just RPM output in all instances 
+Add more brightness resolution, or make existing scale more dramatic
