@@ -2,3 +2,4 @@ If space allows, add knight rider "kitt" animation to be activated when 0 RPM de
 Add "profiles" for settings (ie, normal driving, track, drifting, drag, etc)
 in Debug mode, clean all other serial.print data so it's just RPM output in all instances 
 Add more brightness resolution, or make existing scale more dramatic
+Add a run-time "hour meter" option in the menu. Test to see if an RTC chip is needed. 
