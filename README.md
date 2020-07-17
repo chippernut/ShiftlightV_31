@@ -8,3 +8,6 @@ Improvements from V3 include
 + Optimized code and calculations
 + Auto-shut off 
 + USB output and dim icons 
+
+​Use Arduino IDE Version 1.8.5
+https://www.arduino.cc/en/main/OldSoftwareReleases. 
