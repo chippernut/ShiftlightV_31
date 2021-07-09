@@ -8,6 +8,7 @@ Add a run-time "hour meter" option in the menu. Test to see if an RTC chip is ne
 Add optional input for another warning light (ie, oil pressure, temperature, etc). User defined in menu
 Add (or make option) number of color segments. (3 colors to 4 colors). 
 Add Peak-Hold functionality for RPM
+Add option to adjust # of LED color segments (up to 4 segments for example)
 
 HARDWARE
 Test the pads on the large electrolytic cap. May need to adjust trace on PCB
