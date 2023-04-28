@@ -9,6 +9,10 @@ Add optional input for another warning light (ie, oil pressure, temperature, etc
 Add (or make option) number of color segments. (3 colors to 4 colors). 
 Add Peak-Hold functionality for RPM
 Add option to adjust # of LED color segments (up to 4 segments for example)
+Add option to color-shift all LEDs with RPM range. See email from Sherfin w/ video example. 
+
+
+
 
 HARDWARE
 Test the pads on the large electrolytic cap. May need to adjust trace on PCB
